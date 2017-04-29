@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "unsize",
+  "description": "unsize filters shopping websites so you can view what fits so you can focus on your style. this extension is accompanied by a fashion experience. check it out at: unsize.me",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
